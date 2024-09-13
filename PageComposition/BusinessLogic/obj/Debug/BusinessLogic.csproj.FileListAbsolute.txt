@@ -1,0 +1,6 @@
+C:\Users\maazs\Desktop\Uni\Year 2\1st Semester\Software Engineering\ACW\PageComposition\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\maazs\Desktop\Uni\Year 2\1st Semester\Software Engineering\ACW\PageComposition\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\1st Semester\Software Engineering\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\Uni\Year 2\1st Semester\Software Engineering\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\maazs\Desktop\Uni\Year 2\1st Semester\Software Engineering\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\maazs\Desktop\Uni\Year 2\1st Semester\Software Engineering\ACW\PageComposition\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
